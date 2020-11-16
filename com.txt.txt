@@ -1,0 +1,49 @@
+Here are the commands:
+
+mamba get pycharm - Get Pycharm
+
+mamba get mps - Get Jet Brians MPS
+
+mamba get inj -jet = IntelliJ IDEA
+
+mamba get teamc -jet | Teamcity
+
+mamba get clion | CLion
+
+mamba get dg -jet | Jetbrians
+
+mamba get gl -jet | Jetbrians
+
+mamba get phps -jet | Jetbrians
+
+mamba get rider | Jetbrians
+
+mamba get rubm -jet | Jetbrians
+
+mamba get ws -jet | Jetbrians
+
+mamba get rs -jet | Jetbrians
+
+mamba get vs.plugins -jet | Jetbrians
+
+mamba get checkX2 | Viiper Mamba
+
+mamba get .NET | Microsoft
+
+mamba get chrome | Google
+
+mamba get obs | OBS STUDIO
+
+mamba get py.3 | Python 3.9
+
+mamba get visualstudio.com | Microsoft 2019
+
+mamba get vsc.com | Microsoft
+
+mamba hub | Viiper Mamba
+
+mamba get X2 | Viiper Mamba
+
+
+
+
